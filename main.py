@@ -1,3 +1,5 @@
+"""DocString
+"""
 def main():
     print("Hello from first-from-remote!")
 
